@@ -152,5 +152,5 @@ The first 50 posts are fetched in a server component (`wall-loader.tsx`) and pas
 
 1. Push the repository to GitHub.
 2. Import the repo on [Vercel](https://vercel.com/new).
-3. Under **Environment Variables**, add `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY`.
+3. Under **Environment Variables**, add `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY`.
 4. Click **Deploy**.
