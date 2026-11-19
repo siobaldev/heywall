@@ -4,9 +4,12 @@
   --font-platypi: var(--font-platypi);
 
   --color-bg: #f3f3fb;
+  --color-foreground: #222254;
+  --color-primary: #4e4ebd;
 }
 
 body {
   background: var(--color-bg);
+  color: var(--color-foreground);
   font-family: var(--font-platypi);
 }
